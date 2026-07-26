@@ -1,2 +1,2 @@
 # veetrag-enterprises
-veetrag website snd visiting card
+veetrag website and visiting card
