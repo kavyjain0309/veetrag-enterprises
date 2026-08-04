@@ -112,6 +112,7 @@ body{
     font-weight:700;
     color:#0F172A;
     margin-bottom:20px;
+    text-align: center;
 }
 
 .feature-card{
@@ -182,6 +183,7 @@ body{
     font-size: clamp(2rem, 5vw, 42px);
     font-weight:700;
     color:#0F172A;
+    text-align: center;
 }
 
 .section-desc{
