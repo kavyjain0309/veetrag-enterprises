@@ -65,6 +65,11 @@ body{
     box-shadow: 0 12px 25px rgba(13, 110, 253, 0.45);
 }
 
+.btn-success.hero-btn:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 25px rgba(25, 135, 84, 0.45);
+}
+
 .hero-btn i {
     margin-right: 8px;
     transition: transform 0.3s ease;
@@ -164,6 +169,28 @@ body{
     text-align:center;
     padding:20px;
     font-weight:600;
+
+}
+
+.section-icon{
+
+    font-size:40px;
+    color:#F97316;
+    margin-bottom:15px;
+
+}
+
+.section-desc{
+
+    color:#6B7280;
+    font-size:17px;
+
+}
+
+.section-title{
+
+    font-size:42px;
+    font-weight:700;
 
 }
 
